@@ -1,0 +1,13 @@
+ ! Swift/XRT detailed lightcurve of trigger: 38868, name: SWIFT J0636.63536
+ ! T0 for this burst is Swift MET=324730802.0006 s, = 2011 Apr 17 at 10:59:55.136 UT
+
+ ! Data covers 0.3-10 keV
+ ! For details of light-curve production, see Evans et al. 2007, A&A, 469, 379
+ ! BINMODE: 
+READ TERR 1 2
+READ SERR 3
+!Time    	T_+ve   	T_-ve   	Rate    	Ratepos 	Rateneg 	BGrate  	BGerr   	FracExp
+! PC data
+587.690	427.495	-427.495	8.943829e-02	1.162157e-02	-1.162157e-02	4.510366e-04	7.973275e-05	1.000000
+83168693.711	241.954	-241.954	8.917721e-02	1.876923e-02	-1.876923e-02	4.390021e-04	1.097505e-04	1.000000
+127443353.461	482.655	-482.655	1.176847e-01	1.223098e-02	-1.223098e-02	1.247770e-03	1.698000e-04	1.000000

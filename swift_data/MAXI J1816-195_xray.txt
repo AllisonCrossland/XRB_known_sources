@@ -1,0 +1,11 @@
+ ! Swift/XRT detailed lightcurve of trigger: 15208, name: MAXI J1816-195 
+ ! T0 for this burst is Swift MET=519815462.0006 s, = 2017 Jun 22 at 09:10:42.746 UT
+
+ ! Data covers 0.3-10 keV
+ ! For details of light-curve production, see Evans et al. 2007, A&A, 469, 379
+ ! BINMODE: 
+READ TERR 1 2
+READ SERR 3
+!Time    	T_+ve   	T_-ve   	Rate    	Ratepos 	Rateneg 	BGrate  	BGerr   	FracExp
+! WT data
+156540945.613	6177.586	-6177.586	4.628559e+01	1.924943e-01	-1.970511e-01	9.584932e-01	2.128934e-02	0.128798

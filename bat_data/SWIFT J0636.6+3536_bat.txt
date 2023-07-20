@@ -1,0 +1,5 @@
+# Swift-BAT daily average light curve for                       
+# Generated 
+#
+#     TIME           RATE          ERROR      YEAR          DAY     STAT_ERR        SYS_ERR   DATA_FLAG   TIMEDEL_EXPO     TIMEDEL_CODED  TIMEDEL_DITHERED
+#       d        count/cm^2/s   count/cm^2/s   yr            d    count/cm^2/s   count/cm^2/s                s              s              s
